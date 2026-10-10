@@ -1,0 +1,3 @@
+SYNTHETIC drill probe marker (r01)
+Purpose: reverse-test target for branch-protection rejection tests.
+No production data.
